@@ -1,2 +1,2 @@
 ----
-&copy; Laksamadi Guko 2017 - 2020
+&copy; Phenix IT 2017 - 2022
